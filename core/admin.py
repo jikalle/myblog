@@ -22,3 +22,6 @@ class PostAdmin(SummernoteModelAdmin):
     summernote_fields = ('content',)
 
 admin.site.register(Post, PostAdmin)
+
+# saadatumusa576@gmail.com
+# P0389633KN
